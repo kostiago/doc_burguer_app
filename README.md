@@ -1,6 +1,6 @@
-# doc_burguer_app
+# DOC Burguer Delivery APP.
 
-A new Flutter project.
+Projeto criado durante a nona Dart WEEK em Janeiro.
 
 ## Getting Started
 
